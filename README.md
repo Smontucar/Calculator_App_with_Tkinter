@@ -19,7 +19,7 @@ This is a simple calculator application built using the tkinter library in Pytho
 ## How to Use
 
 1. Open a Jupyter Notebook.
-2. Copy and paste the code from the `calculator_app.py` file into a code cell.
+2. Copy and paste the code from the `calculator_app.ipynb` file into a code cell.
 3. Run the code cell to initialize the calculator.
 
 4. The calculator GUI window will appear. Use the buttons to perform calculations and interact with the calculator.
