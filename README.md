@@ -2,6 +2,8 @@
 
 This is a simple calculator application built using the tkinter library in Python. The calculator provides basic arithmetic operations and includes features like square root, percentage calculation, and more.
 
+<img src="Calculator_App_with_Tkinter/Calculator Screenshot.png" alt="Calculator Screenshot" width="300"/>
+
 ## Features
 
 - Addition, subtraction, multiplication, and division.
